@@ -30,23 +30,5 @@ Embark on your Stream Deck plugin development journey:
 3. **Explore Examples**
     - Within the `examples` directory, discover various API integrations, each detailed with specific setup and usage instructions.
 
-## Contribute
-
-Your contributions are welcome! Enhance the toolkit by adding new API examples, refining documentation, or sharing tips. Fork the project, apply your changes, and submit a pull request.
-
-## Feedback & Support
-
-For questions, feedback, or support, please initiate an issue on GitHub or contact us directly through [specified contact information].
-
-## License
-
-This toolkit is licensed under the MIT License. See the [LICENSE](LICENSE) file for full details.
-
-## Acknowledgments
-
-- Thanks to Elgato for the Stream Deck SDK and the invaluable resources on their [GitHub repository](https://github.com/elgatosf/streamdeck).
-- Appreciation to all the API providers for making their services available for integration.
-- Gratitude towards the community contributors for their insights and enhancements.
-
 ---
 Dive deep into Stream Deck plugin development with our API Integration Toolkit, and unlock new levels of productivity and creativity with your Stream Deck!
